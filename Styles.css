@@ -1,0 +1,40 @@
+.wrapper-form{
+    display: flex;
+    padding-top: 20px;
+  
+
+}
+#Header h1{
+    font-size: 3rem;
+    color: aqua;
+    
+}
+
+input{
+    margin-left: 20px;
+    width: 50%;
+}
+a{
+    text-decoration: none;
+    font-size:rem;
+    color: #ffff;
+    padding-top: 10px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    width: 20%;
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 4vh;
+}
+#email{
+    padding-left: 70px;
+}
+#username{
+    padding-left: 40px;
+}
+#password{
+    padding-left:80px;
+}
